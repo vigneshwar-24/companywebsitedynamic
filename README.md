@@ -1,6 +1,6 @@
-# Web Design for a Manufacturing Company
+# Web Design for a Manufacturing Company dynamic
 ## AIM: 
-To design a static website for a chip manufacturing company.
+To design a static website for a chip manufacturing company dynamic page.
 
 ## DESIGN STEPS:
 ### Step 1: 
