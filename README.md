@@ -48,7 +48,7 @@ Publish the website in the given URL.
     {% endblock  %}
     </div>
     <div class="footer">
-        Copyright © 2021 STARK Industries Limited, Developed by JAYASHREE RAO
+        Copyright © 2021 STARK Industries Limited, Developed by vignesh
     </div>
     </div>
 </body>
@@ -183,4 +183,4 @@ return true; }
 
 
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://jayashreerao.student.saveetha.in:8000/. HTML code is validated.
+Thus a website is designed for the chip manufacturing company and is hosted in the URL http://vigneshwar.student.saveetha.in:8000/. HTML code is validated.
